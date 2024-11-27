@@ -1,6 +1,6 @@
 body {
-        color: white;
-        background: black;
+        color: rgb(184, 100, 100);
+        background: rgb(185, 7, 7);
         margin: 0px;
     }
     
@@ -22,7 +22,13 @@ body {
     .chamada-texto {
         margin-right: 20px;
     }
-    
+    h1 {
+        font-size: 40px;
+      }
+      
+      p {
+        font-size: 20px;
+      }
     
     
     
